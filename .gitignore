@@ -1,0 +1,19 @@
+# Node modules - nunca subir a Git
+node_modules/
+
+# Build de producción
+dist/
+dist-ssr/
+
+# Variables de entorno locales
+*.local
+
+# Editores
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+logs/
+npm-debug.log*
